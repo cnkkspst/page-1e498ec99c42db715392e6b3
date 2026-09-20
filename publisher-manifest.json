@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "88a5257dbe00927993abe6cc",
+  "owner": "cnkkspst",
+  "repo": "page-1e498ec99c42db715392e6b3",
+  "title": "Exflux",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e498ec99c42db715392e6b3",
+      "a": "Exflux",
+      "b": "2027最新官网",
+      "entity": "Exflux",
+      "brand": "Exflux",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e334a538cb0e71b22b579b87916814fd78077a02a90c13b2ba2149d3bfa38a25",
+      "content": {
+        "primary_entity": "Exflux",
+        "keyword1": "Exflux",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，Exflux 海外加速器提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备在线需求，适合流媒体观看、跨境办公与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，按需选择",
+          "AI_HERO_INTRO": "Exflux 海外加速器以分层套餐与多客户端订阅配置为核心，帮助个人与团队在网络访问中获得更顺畅的体验。",
+          "AI_VISUAL_TITLE": "Exflux 加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "设备数量随版本灵活扩展",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURES_INTRO": "从流量规模、设备上限与使用周期出发，匹配适合的 Exflux 订阅方案。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按订阅周期权衡",
+          "AI_FEATURE_TEXT_2": "基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，年付更划算。",
+          "AI_FEATURE_TITLE_3": "按使用场景匹配",
+          "AI_FEATURE_TEXT_3": "流媒体观看可选旗舰版全节点解锁，跨境团队可选团队版定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，并按配置文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备协作。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按三步完成从选购到订阅导入的流程。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版、团队版中选定订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备与客户端是否在支持范围内，并核对套餐权益。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅，完成节点选择与连接测试。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对版本，稳定连接",
+          "AI_CLOSING_TEXT": "确定设备数量与流量需求后，再到套餐页选择年付或月付方案。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "Exflux 三档套餐主要差别在哪里？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并含 IPLC 专线与全节点流媒体解锁；团队版每月 1000GB、20 台设备，含 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_2": "年付和月付价格差距大吗？",
+          "AI_FAQ_ANSWER_2": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于以十个月价格使用十二个月，长期使用更划算。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在对应设备的客户端中打开订阅导入功能，粘贴订阅链接并保存，客户端会自动拉取节点列表。不同客户端的导入位置有差异，可参照客户端文档操作。",
+          "AI_FAQ_QUESTION_4": "设备数超限会怎样？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数超过套餐上限时，新设备可能无法连接或挤占已连接设备。可在客户端断开闲置设备，或升级到支持更多设备的旗舰版、团队版。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备在线，含 VIP 高带宽节点与企业定制路由，适合小组协作、多终端办公或需要专属客户经理服务的场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "longbamall.cn",
+    "host": "longbamall.cn"
+  },
+  "file_hashes": {
+    "index.html": "40becc11228c62c2a24cc2b1d062ad0f0380159559b141b148db7f48bba1251e",
+    "sitemap.xml": "33cc977cc3ae1a4f01af6c256e99a1a7557a10f2a5055da878c15705a8cac3de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "84a70b0f78bc8fec1a2f5fa7abd9c84144695374102edd01ab23bb76db627aa6",
+    "robots.txt": "274c3e2df980d29f413b4270f1605c238b210c0551c21be499cf87adcad33245",
+    "22a764ecd3ed3cc5a844262bfa2f9adb.txt": "f29487552a9a86942356874a8c7ef2f977071db84835b17ecdb6943e38ee7c2d"
+  },
+  "revision": "737a968b5f24b7f55a6c018469bb9348fb63893a8e95352a88777ffe206dc388"
+}
